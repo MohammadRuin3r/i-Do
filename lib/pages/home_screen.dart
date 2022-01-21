@@ -135,28 +135,28 @@ class TopSectionWidget extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Container(
-            margin: const EdgeInsets.symmetric(horizontal: 10.0),
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                IconButton(
-                  onPressed: () {},
-                  icon: const Icon(
-                    Icons.arrow_back_ios,
-                    color: Colors.white,
-                  ),
-                ),
-                IconButton(
-                  onPressed: () {},
-                  icon: const Icon(
-                    Icons.menu,
-                    color: Colors.white,
-                  ),
-                )
-              ],
-            ),
-          ),
+          // Container(
+          //   margin: const EdgeInsets.symmetric(horizontal: 10.0),
+          //   child: Row(
+          //     mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          //     children: [
+          //       IconButton(
+          //         onPressed: () {},
+          //         icon: const Icon(
+          //           Icons.arrow_back_ios,
+          //           color: Colors.white,
+          //         ),
+          //       ),
+          //       IconButton(
+          //         onPressed: () {},
+          //         icon: const Icon(
+          //           Icons.menu,
+          //           color: Colors.white,
+          //         ),
+          //       )
+          //     ],
+          //   ),
+          // ),
           Container(
             margin: const EdgeInsets.only(left: 40.0, top: 20.0),
             child: const CircleAvatar(
