@@ -1,5 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.todo_app">
+    package="com.mohammad_hosseini.todo_app"
+    android:installLocation="preferExternal"
+    >
    <application
         android:label="iDo"
         android:name="${applicationName}"
