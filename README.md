@@ -1,1 +1,1 @@
-a todo application created with flutter !
+اپلیکیشن To Do با رابط کاربری بسیار جذاب و کد نویسی تمیز ، ساخته شده با فلاتر !
